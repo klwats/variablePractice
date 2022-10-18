@@ -7,9 +7,9 @@ var statesVisited = 30
 var liveAlone = false
 var married = true
 var ownsDog = true
-var streetName = "Colorado"
-var firstName = "Lucy"
-var email = "chantel.butterfield@gmail.com"
+streetName = "Colorado"
+firstName = "Lucy"
+email = "chantel.butterfield@gmail.com"
 console.log(streetName)
 console.log(firstName)
 console.log(liveAlone)
